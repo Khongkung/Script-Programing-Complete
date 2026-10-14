@@ -7,7 +7,7 @@
 
 | 📌 Information | 📖 Details                            |
 | :------------- | :------------------------------------ |
-| **Name**       | **Pongsakorn Manadee (พงษกร มานาดี)** |
+| **Name**       | **Pongsakorn Manadi (พงษกร มานาดี)** |
 | **Year**       | 4                                     |
 | **Faculty**    | College of Computing                  |
 | **Major**      | Artificial Intelligence (AI)          |
