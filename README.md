@@ -107,10 +107,10 @@ Script-Programing-Complete/
 │   └── Lab 5 Advance(week12)/                # Multi-channel Communication Pipeline Agent
 │
 ├── mini Project/                             # โครงงานย่อย (Mini Project)
-│   └── MiniProject.md                        # Mini Game Hub: Hangman with AI
+│   └── README.md                             # Mini Game Hub: Hangman with AI
 │
 └── Final Project/                            # โครงงานหลัก (Final Project)
-    └── FinalProject.md                       # Menu Roulette: ระบบสุ่มและแนะนำเมนูอาหาร
+    └── README.md                             # Menu Roulette: ระบบสุ่มและแนะนำเมนูอาหาร
 ```
 
 ---
