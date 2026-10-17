@@ -62,9 +62,13 @@ Script-Programing-Complete/
 ├── mini Project/                             # โครงงานย่อย (Mini Project)
 │   └── README.md                             # Mini Game Hub: Hangman with AI
 │
-└── Final Project/                            # โครงงานหลัก (Final Project)
-    └── README.md                             # Menu Roulette: ระบบสุ่มและแนะนำเมนูอาหาร
+├── Final Project/                            # โครงงานหลัก (Final Project)
+│   └── README.md                             # Menu Roulette: ระบบสุ่มและแนะนำเมนูอาหาร
+│
+└── Certificate/                              # ใบประกาศนียบัตร และแบบประเมินหลักสูตร Cisco
+    └── README.md                             # สรุปผลการตอบแบบสอบถามและใบประกาศนียบัตร
 ```
+
 
 ## 🛠️ เทคโนโลยีและเครื่องมือที่ใช้ (Tech Stack)
 
